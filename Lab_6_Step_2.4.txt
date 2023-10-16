@@ -1,1 +1,2 @@
-This is a test for step 2.6 of lab 6 
+This is a test for step 2.6 of lab 6
+This is a modification for 2.8 Step 8 for Lab 6 
